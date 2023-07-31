@@ -1,0 +1,6 @@
+.active {
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(236, 30, 119);
+}
